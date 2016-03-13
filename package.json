@@ -1,0 +1,25 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "https://opentutorials.org/module/2026",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taehyoung Kim",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taehyoungkim/learningnode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taehyoungkim/learningnode/issues"
+  },
+  "homepage": "https://github.com/taehyoungkim/learningnode#readme"
+}
